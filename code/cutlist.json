@@ -1,0 +1,278 @@
+{
+  "cutlist": [
+    {
+      "id": "c_intro_seed",
+      "start": 0.0,
+      "end": 9.514,
+      "dur": 9.514
+    },
+    {
+      "id": "c_intro_pair",
+      "start": 9.514,
+      "end": 20.931,
+      "dur": 11.417
+    },
+    {
+      "id": "h_daisy",
+      "start": 20.931,
+      "end": 27.431,
+      "dur": 6.5
+    },
+    {
+      "id": "c_fib_syllables",
+      "start": 27.431,
+      "end": 35.042,
+      "dur": 7.611
+    },
+    {
+      "id": "c_fib_climb",
+      "start": 35.042,
+      "end": 39.8,
+      "dur": 4.758
+    },
+    {
+      "id": "h_succulent",
+      "start": 39.8,
+      "end": 45.8,
+      "dur": 6.0
+    },
+    {
+      "id": "c_gaps_light",
+      "start": 45.8,
+      "end": 51.441,
+      "dur": 5.641
+    },
+    {
+      "id": "c_voronoi",
+      "start": 51.441,
+      "end": 59.338,
+      "dur": 7.897
+    },
+    {
+      "id": "c_grow_pulse",
+      "start": 59.338,
+      "end": 66.107,
+      "dur": 6.769
+    },
+    {
+      "id": "c_vogel_34",
+      "start": 66.107,
+      "end": 71.184,
+      "dur": 5.077
+    },
+    {
+      "id": "c_vogel_55",
+      "start": 71.184,
+      "end": 76.6,
+      "dur": 5.416
+    },
+    {
+      "id": "h_sunflower",
+      "start": 76.6,
+      "end": 83.1,
+      "dur": 6.5
+    },
+    {
+      "id": "c_vogel_plain",
+      "start": 83.1,
+      "end": 92.78,
+      "dur": 9.68
+    },
+    {
+      "id": "h_fern",
+      "start": 92.78,
+      "end": 98.78,
+      "dur": 6.0
+    },
+    {
+      "id": "c_turn_again_a",
+      "start": 98.78,
+      "end": 107.25,
+      "dur": 8.47
+    },
+    {
+      "id": "c_nautilus_code",
+      "start": 107.25,
+      "end": 113.3,
+      "dur": 6.05
+    },
+    {
+      "id": "h_nautilus",
+      "start": 113.3,
+      "end": 118.3,
+      "dur": 5.0
+    },
+    {
+      "id": "c_storm_code",
+      "start": 118.3,
+      "end": 123.121,
+      "dur": 4.821
+    },
+    {
+      "id": "h_hurricane",
+      "start": 123.121,
+      "end": 128.121,
+      "dur": 5.0
+    },
+    {
+      "id": "c_phyllotaxis_top",
+      "start": 128.121,
+      "end": 133.135,
+      "dur": 5.014
+    },
+    {
+      "id": "h_pinecone",
+      "start": 133.135,
+      "end": 138.335,
+      "dur": 5.2
+    },
+    {
+      "id": "c_galaxy_code",
+      "start": 138.335,
+      "end": 143.639,
+      "dur": 5.304
+    },
+    {
+      "id": "h_galaxy",
+      "start": 143.639,
+      "end": 149.139,
+      "dur": 5.5
+    },
+    {
+      "id": "c_water_code",
+      "start": 149.139,
+      "end": 154.443,
+      "dur": 5.304
+    },
+    {
+      "id": "h_river",
+      "start": 154.443,
+      "end": 159.943,
+      "dur": 5.5
+    },
+    {
+      "id": "c_spiral_dissolve",
+      "start": 159.943,
+      "end": 165.729,
+      "dur": 5.786
+    },
+    {
+      "id": "h_water_light",
+      "start": 165.729,
+      "end": 171.729,
+      "dur": 6.0
+    },
+    {
+      "id": "c_turn_again_b",
+      "start": 171.729,
+      "end": 177.515,
+      "dur": 5.786
+    },
+    {
+      "id": "h_ammonite",
+      "start": 177.515,
+      "end": 183.515,
+      "dur": 6.0
+    },
+    {
+      "id": "c_rise_energy",
+      "start": 183.515,
+      "end": 189.3,
+      "dur": 5.785
+    },
+    {
+      "id": "c_bridge",
+      "start": 189.3,
+      "end": 206.926,
+      "dur": 17.626
+    },
+    {
+      "id": "h_whirlpool",
+      "start": 206.926,
+      "end": 212.926,
+      "dur": 6.0
+    },
+    {
+      "id": "c_angle_protractor",
+      "start": 212.926,
+      "end": 222.621,
+      "dur": 9.695
+    },
+    {
+      "id": "h_romanesco",
+      "start": 222.621,
+      "end": 228.621,
+      "dur": 6.0
+    },
+    {
+      "id": "c_bridge_return",
+      "start": 228.621,
+      "end": 239.197,
+      "dur": 10.576
+    },
+    {
+      "id": "h_flowers",
+      "start": 239.197,
+      "end": 245.697,
+      "dur": 6.5
+    },
+    {
+      "id": "c_fib_tiling",
+      "start": 245.697,
+      "end": 256.273,
+      "dur": 10.576
+    },
+    {
+      "id": "c_vogel_both",
+      "start": 256.273,
+      "end": 266.849,
+      "dur": 10.576
+    },
+    {
+      "id": "c_petal_math",
+      "start": 266.849,
+      "end": 275.662,
+      "dur": 8.813
+    },
+    {
+      "id": "c_final_zoom_code",
+      "start": 275.662,
+      "end": 288.0,
+      "dur": 12.338
+    },
+    {
+      "id": "h_shell_side",
+      "start": 288.0,
+      "end": 294.0,
+      "dur": 6.0
+    },
+    {
+      "id": "h_pine_top",
+      "start": 294.0,
+      "end": 300.0,
+      "dur": 6.0
+    },
+    {
+      "id": "h_light_glass",
+      "start": 300.0,
+      "end": 306.0,
+      "dur": 6.0
+    },
+    {
+      "id": "c_field_code",
+      "start": 306.0,
+      "end": 312.0,
+      "dur": 6.0
+    },
+    {
+      "id": "c_outro_seed",
+      "start": 312.0,
+      "end": 318.672,
+      "dur": 6.672
+    }
+  ],
+  "duration": 318.672,
+  "bpm": 103,
+  "version": 2,
+  "outro_locked_v1": true
+}

@@ -1,0 +1,13 @@
+# Media binaries never live in this repo
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.mp3
+*.npy
+bank/
+tests/
+renders/
+frames/
+exports/
+__pycache__/
